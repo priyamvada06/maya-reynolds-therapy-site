@@ -20,12 +20,6 @@ A responsive Next.js + Tailwind CSS website for the fictional therapist profile 
 4. Verify all wording and links against the assignment instructions.
 5. If the recruiter expects an exact clone of the reference site, compare the original page side-by-side and refine the `/reference-clone` route.
 
-## Deploy to Vercel
-1. Create a public GitHub repository and upload this project.
-2. Sign in to Vercel and choose **Add New → Project**.
-3. Import the GitHub repository. Keep the default Next.js settings.
-4. Deploy, then test the live URL on desktop and mobile.
-5. Submit the live website URL, public GitHub repository URL, and Loom walkthrough URL.
 
 ## 5-minute walkthrough outline
 - 0:00–0:30 — Introduce the goal and show the homepage.
